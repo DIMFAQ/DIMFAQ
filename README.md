@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - 👨‍🎓 Informatics Engineering @ **Universitas Lampung**
-- 💻 Focus: **Full-stack (Laravel + React)** & **UI/UX**
+- 💻 Focus: **UI/UX**
 - 🎯 Goals: ship real products, clean architecture, and beautiful UI/UX
 - 🌱 Currently learning: **Next.js 15, Laravel 11, Blynk, Cloud MQTT**
 - ✍️ Motto: *Build. Ship. Iterate.*
@@ -24,7 +24,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,nodejs,python,cpp,arduino,postgresql,mysql,sqlite,git,github,vscode,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,nodejs,python,cpp,postgresql,mysql,sqlite,git,github,vscode,figma&perline=10" />
 </p>
 
 ---
