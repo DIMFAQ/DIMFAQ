@@ -22,9 +22,9 @@
 
 ---
 
-### 🛠 Tech Stack
+### 📚 Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cpp,postgresql,mysql,sqlite,git,github,vscode,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,python,cpp,arduino,mysql,postgresql,figma&perline=10" />
 </p>
 
 ---
