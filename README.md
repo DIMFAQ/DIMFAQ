@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%F0%9F%91%8B+I'm+Dimas+Faqih+Nur+Aulia+Rohman;Informatics+Student+%7C+Web+%26+IoT+Enthusiast;Laravel+%2B+React+%7C+ESP8266%2FESP32+%7C+UI%2FUX;Building+useful+things+with+code+%26+hardware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%F0%9F%91%8B+I'm+Dimas+Faqih+Nur+Aulia+Rohman;Informatics+Student+%7C+Web+%26+UI/UX+Enthusiast;Laravel+%2B+React+%7C+%7C+UI%2FUX;Building+useful+things+with+code+%26+hardware" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to my GitHub! 🌌</h1>
