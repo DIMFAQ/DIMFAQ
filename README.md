@@ -16,7 +16,6 @@
 ### About Me
 - Informatics Engineering student at **Universitas Lampung**
 - Focus area: **UI/UX Design** and **Web Development**
-- Currently learning **Next.js 15**, **Laravel 11**, **Blynk**, and **Cloud MQTT**
 - Goal: Build products that are functional, aesthetic, and impactful
 - Motto: *Build. Ship. Iterate.*
 
